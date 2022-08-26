@@ -6,7 +6,7 @@
 }
 
 body{
-    background-image: url(/Assets/img/amarokplan.jpg);
+    background-image: url(./Assets/img/amarokplan.jpg);
     background-size: cover;
     background-position: center;
 }
