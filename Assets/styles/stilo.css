@@ -6,7 +6,7 @@
 }
 
 body{
-    background-image: url(https://github.com/Diegoleal225/page-volks/blob/main/Assets/img/amarokplan.jpg?raw=true);
+    background-image: url("https://github.com/Diegoleal225/page-volks/blob/main/Assets/img/amarokplan.jpg?raw=true");
     background-size: cover;
     background-position: center;
 }
