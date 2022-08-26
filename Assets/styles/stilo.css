@@ -83,7 +83,7 @@ body{
 #main-amarok{
     min-height: 45vh;
     max-width: 45vw;
-    background-image: url(/Assets/img/vw-amarok-2022-1_edited.jpg);
+    background-image: url("/Assets/img/vw-amarok-2022-1_edited.jpg");
     background-position: center;
     background-size: cover;
 
@@ -95,7 +95,7 @@ body{
 #main-nivus{
     min-height: 45vh;
     max-width: 45vw;
-    background-image: url(/Assets/img/nivus.webp);
+    background-image: url("/Assets/img/nivus.webp");
     background-position: center;
     background-size: cover;
     grid-column-start: auto;
@@ -108,7 +108,7 @@ body{
 #main-polo{
     min-height: 45vh;
     max-width: 45vw;
-    background-image: url(/Assets/img/polo.webp);
+    background-image: url("/Assets/img/polo.webp");
     background-position: center;
     background-size: cover;
 
@@ -120,7 +120,7 @@ body{
 #main-saveiro{
     min-height: 45vh;
     max-width: 45vw;
-    background-image: url(/Assets/img/saveiro-walpaper.webp);
+    background-image: url("/Assets/img/saveiro-walpaper.webp");
     background-position: center;
     background-size: cover;
 
@@ -132,7 +132,7 @@ body{
 #main-tiguan{
     min-height: 45vh;
     max-width: 45vw;
-    background-image: url(/Assets/img/tiguan.jpg);
+    background-image: url("/Assets/img/tiguan.jpg");
     background-position: center;
     background-size: cover;
 
@@ -144,7 +144,7 @@ body{
 #main-virtus{
     min-height: 45vh;
     max-width: 45vw;
-    background-image: url(/Assets/img/virtus_nbd_traseira.jpg);
+    background-image: url("/Assets/img/virtus_nbd_traseira.jpg");
     background-position: center;
     background-size: cover;
 
