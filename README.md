@@ -1,4 +1,4 @@
-## Olá! Eu sou o Diego Leal , desenvolvedor front-end
+## Olá! Eu sou o Diego Leal , developer
 
 <div align="center">
   <a href="https://github.com/Diegoleal225">
