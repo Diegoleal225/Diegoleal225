@@ -208,7 +208,7 @@ h1, h2, h3, h4, h5, h6 {
     transform: translate(-3%, 3%) scale(1.2) rotate(1deg);
 }
 .image3{
-    background-image: url("./assets/img/Goku-jiren.jpg");
+    background-image: url("https://github.com/Diegoleal225/Diegoleal225/blob/main/lang-page/assets/img/jiren-goku-max.jpg?raw=true");
     background-position: center;
     background-size: cover;
     min-width: 28vw;
