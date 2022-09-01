@@ -3,7 +3,7 @@
 <div  >
   <a href="https://github.com/Diegoleal225">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Diegoleal225&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoleal225&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoleal225&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div   style="display: inline_block" align="center"><br>
   <img align="center" alt="DiegoLeal-Js" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank">
@@ -18,8 +18,7 @@
   <a href="https://api.whatsapp.com/send/?phone=77981338523&text&type=phone_number&app_absent=0" target="_blank"><img height="30"     align:"center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   </div>
   <div align="center">  
-    <h3> Lang-pages</h3>
-    <h4>Dragon-Ball-super</h4>
+    <h3> Lang-page</h3>
     <a href="https://diegoleal225.github.io/Diegoleal225/lang-page/lang.html"><img  align="center" alt="lang-page" height="170em" width"170em" src="https://github.com/Diegoleal225/Diegoleal225/blob/main/lang-page/assets/img/Screenshot_1.png?raw=true" target="_blank"></a> 
      
   </div>
