@@ -20,6 +20,6 @@
   <div>  
     <h3> Lang-pages:</h3>
     <h4>Dragon-Ball-super</h4>
-    <a href="https://diegoleal225.github.io/Diegoleal225/lang-page/lang.html"><img  align="center" alt="lang-page" height="170em" width"170em" src="https://github.com/Diegoleal225/Diegoleal225/blob/main/lang-page/assets/img/Screenshot_1.png?raw=true" target="_blank"></a> 
+    <a href="https://diegoleal225.github.io/Diegoleal225/lang-page/lang.html"><img  align="center" alt="lang-page" height="170em" width"170em" src="https://github.com/Diegoleal225/Diegoleal225/blob/main/lang-page/assets/img/Screenshot_1.png?raw=true" target="about_blank"></a> 
      
   </div>
