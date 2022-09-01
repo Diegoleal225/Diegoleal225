@@ -18,7 +18,7 @@
   <a href="https://api.whatsapp.com/send/?phone=77981338523&text&type=phone_number&app_absent=0" target="_blank"><img height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   </div>
   <div>  
-    <h3> Lang-page:</h3>
+    <h3> Lang-pages:</h3>
     <h4>Dragon-Ball-super</h4>
     <a href="https://diegoleal225.github.io/Diegoleal225/lang-page/lang.html"><img  align="center" alt="lang-page" height="170em" width"170em" src="https://github.com/Diegoleal225/Diegoleal225/blob/main/lang-page/assets/img/Screenshot_1.png?raw=true"></a> 
      
