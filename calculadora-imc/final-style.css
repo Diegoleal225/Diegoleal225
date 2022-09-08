@@ -6,7 +6,7 @@ body{
     overflow-y: hidden;
     transition: all 400ms ease-in-out;
     font-family: 'Open Sans', sans-serif;
-    background-image: url("./assets/blue-energy.jpg");
+    background-image: url("https://github.com/Diegoleal225/Diegoleal225/blob/main/calculadora-imc/assets/blue-energy.jpg?raw=true");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
