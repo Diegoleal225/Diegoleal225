@@ -23,5 +23,5 @@
   </div>
     <div align="center">  
     <h3> Calculadora de imc</h3>
-    <a href="https://diegoleal225.github.io/project-calculadora-imc/final.html"><img  align="center" alt="calculado-imc" height="200em" width"200em" src="https://github.com/Diegoleal225/project-calculadora-imc/blob/main/assets/calculadora-imc4.png?raw=true" target="_blank"></a>   
+    <a href="https://diegoleal225.github.io/project-calculadora-imc/final.html"><img  align="center" alt="calculado-imc" height="200em" width"200em" src="https://github.com/Diegoleal225/project-calculadora-imc/blob/main/assets/calculadora-imc.png?raw=true" target="_blank"></a>   
   </div>
