@@ -17,9 +17,9 @@
   <a href="https://www.linkedin.com/in/di%C3%AAgo-leal-02505a23a"> <img height="30" align:"center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://api.whatsapp.com/send/?phone=77981338523&text&type=phone_number&app_absent=0" target="_blank"><img height="30"     align:"center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   </div>
-  <div align="center">  
-    <h3> Lang-page</h3>
-    <a href="https://diegoleal225.github.io/project-lang-page/lang.html"><img  align="center" alt="lang-page" height="200em" width"200em" src="https://github.com/Diegoleal225/project-lang-page/blob/main/assets/img/lang-page.png?raw=true" target="_blank"></a>   
+      <div align="center">  
+    <h3> To do list</h3>
+    <a href="https://diegoleal225.github.io/project-ToDoList/toDoList.html"><img  align="center" alt="calculado-imc" height="200em" width"200em" src="https://raw.githubusercontent.com/Diegoleal225/project-ToDoList/main/assets/img/walpaper.png" target="_blank"></a>   
   </div>
     <div align="center">  
     <h3> Calculadora de imc</h3>
@@ -28,4 +28,8 @@
     <div align="center">  
     <h3>Stopwatch</h3>
     <a href="https://diegoleal225.github.io/project-Stopwatch/Stopwatch.html"><img  align="center" alt="calculado-imc" height="200em" width"200em" src="https://github.com/Diegoleal225/project-Stopwatch/blob/main/assets/img/walpaper.png?raw=true" target="_blank"></a>   
+  </div>
+  <div align="center">  
+    <h3> Lang-page</h3>
+    <a href="https://diegoleal225.github.io/project-lang-page/lang.html"><img  align="center" alt="lang-page" height="200em" width"200em"             src="https://github.com/Diegoleal225/project-lang-page/blob/main/assets/img/lang-page.png?raw=true" target="_blank"></a>   
   </div>
