@@ -16,7 +16,14 @@
   <a href="https://www.linkedin.com/in/di%C3%AAgo-leal-02505a23a"> <img height="30" align:"center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://api.whatsapp.com/send/?phone=77981338523&text&type=phone_number&app_absent=0" target="_blank"><img height="30"     align:"center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   </div>
-      <div align="center">  
+   <div align="center">  
+    <h3>Calculator</h3>
+    <a href="https://diegoleal225.github.io/project-Calculator/calculadora.html"><img  align="center" alt="calculado-imc" height="200em" width"200em" src="https://github.com/Diegoleal225/project-Calculator/blob/main/assets/IMG/Captura%20de%20tela%20de%202022-10-05%2019-23-59.png?raw=true" target="_blank"></a>   
+  </div>     
+   <div align="center">  
+    <h3> To do list</h3>
+    <a href="https://diegoleal225.github.io/project-ToDoList/toDoList.html"><img  align="center" alt="calculado-imc" height="200em" width"200em" src="https://raw.githubusercontent.com/Diegoleal225/project-ToDoList/main/assets/img/walpaper.png" target="_blank"></a>   
+  </div><div align="center">  
     <h3> To do list</h3>
     <a href="https://diegoleal225.github.io/project-ToDoList/toDoList.html"><img  align="center" alt="calculado-imc" height="200em" width"200em" src="https://raw.githubusercontent.com/Diegoleal225/project-ToDoList/main/assets/img/walpaper.png" target="_blank"></a>   
   </div>
