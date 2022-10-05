@@ -23,9 +23,6 @@
    <div align="center">  
     <h3> To do list</h3>
     <a href="https://diegoleal225.github.io/project-ToDoList/toDoList.html"><img  align="center" alt="calculado-imc" height="200em" width"200em" src="https://raw.githubusercontent.com/Diegoleal225/project-ToDoList/main/assets/img/walpaper.png" target="_blank"></a>   
-  </div><div align="center">  
-    <h3> To do list</h3>
-    <a href="https://diegoleal225.github.io/project-ToDoList/toDoList.html"><img  align="center" alt="calculado-imc" height="200em" width"200em" src="https://raw.githubusercontent.com/Diegoleal225/project-ToDoList/main/assets/img/walpaper.png" target="_blank"></a>   
   </div>
     <div align="center">  
     <h3> Calculadora de imc</h3>
