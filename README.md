@@ -32,7 +32,4 @@
     <h3>Stopwatch</h3>
     <a href="https://diegoleal225.github.io/project-Stopwatch/Stopwatch.html"><img  align="center" alt="calculado-imc" height="200em" width"200em" src="https://github.com/Diegoleal225/project-Stopwatch/blob/main/assets/img/walpaper.png?raw=true" target="_blank"></a>   
   </div>
-  <div align="center">  
-    <h3> Lang-page</h3>
-    <a href="https://diegoleal225.github.io/project-lang-page/lang.html"><img  align="center" alt="lang-page" height="200em" width"200em"             src="https://github.com/Diegoleal225/project-lang-page/blob/main/assets/img/lang-page.png?raw=true" target="_blank"></a>   
-  </div>
+
