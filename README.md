@@ -9,7 +9,7 @@
   <img align="center" alt="DiegoLeal-Js" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank">
   <img align="center" alt="DiegoLeal-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" target="_blank">
   <img align="center" alt="DiegoLeal-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" target="_blank">
-  <img align="center" alt="DiegoLeal-CSS" height="30" width="40" src="https://github.com/Diegoleal225/Diegoleal225/blob/main/icones/java_original_wordmark_logo_icon_146459.png?raw=true" target="_blank">
+ 
 </div>
 <br>   
   <div align="center">
